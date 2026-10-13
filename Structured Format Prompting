@@ -1,4 +1,4 @@
-# WEEK 8: STRUCTURED FORMAT PROMPTING
+ # WEEK 8: STRUCTURED FORMAT PROMPTING
  
 print("===== WEEK 8: STRUCTURED FORMAT PROMPTING =====")
  
@@ -46,3 +46,5 @@ print("\n--- NORMAL PROMPT ---")
 print(normal_prompt)
 print("\n--- STRUCTURED FORMAT PROMPT ---")
 print(structured_prompt)
+ 
+
